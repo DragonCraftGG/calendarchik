@@ -29,7 +29,7 @@
 ```markdown
 ## Запуск через curl
 ```bash
-   curl -s https://raw.githubusercontent.com/DragonCraftGG/calendarhcik/main/calendarhcik.py | python
+   curl -s https://raw.githubusercontent.com/DragonCraftGG/calendarchik/main/calendarchik.py | python
 ```
 ---
 
