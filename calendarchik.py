@@ -26,7 +26,7 @@ def print_calendar():
                 week_str += "    |"
             else:
                 if d == day:
-                    week_str += f" [{d:2}]|"
+                    week_str += f"[{d:2}]|"
                 else:
                     week_str += f" {d:2} |"
         print(week_str)
